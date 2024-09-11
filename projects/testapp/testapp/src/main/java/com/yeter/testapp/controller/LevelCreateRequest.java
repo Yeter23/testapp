@@ -1,4 +1,4 @@
-package com.yeter.testapp.Create;
+package com.yeter.testapp.controller;
 
 public class LevelCreateRequest {
     private String levelName;
