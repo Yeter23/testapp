@@ -1,4 +1,4 @@
-package com.yeter.testapp.Filter;
+package com.yeter.testapp.Request.Create.Filter;
 
 public class LevelFilterRequest {
     private int id;

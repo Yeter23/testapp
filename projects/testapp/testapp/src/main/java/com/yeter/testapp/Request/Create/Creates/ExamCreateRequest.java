@@ -1,4 +1,4 @@
-package com.yeter.testapp.Create;
+package com.yeter.testapp.Request.Create.Creates;
 
 public class ExamCreateRequest {
     private int levelId;

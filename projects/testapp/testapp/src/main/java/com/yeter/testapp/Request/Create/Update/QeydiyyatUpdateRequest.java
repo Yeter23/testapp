@@ -1,6 +1,7 @@
-package com.yeter.testapp.Create;
+package com.yeter.testapp.Request.Create.Update;
 
-public class QeydiyyatCreateRequest {
+public class QeydiyyatUpdateRequest {
+    private int id;
     private String qeydiyyatName;
     private String qeydiyyatSurname;
     private String qeydiyyatGmail;

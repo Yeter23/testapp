@@ -1,6 +1,7 @@
-package com.yeter.testapp.Create;
+package com.yeter.testapp.Request.Create.Update;
 
-public class QuestionCreateRequest {
+public class QuestionUpdateRequest {
+    private int id;
     private String questionName;
     private int levelId;
     private int languageId;
